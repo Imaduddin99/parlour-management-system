@@ -1,0 +1,1 @@
+print("Stock Quantity Updated Successfully")

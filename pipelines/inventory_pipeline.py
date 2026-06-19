@@ -1,0 +1,1 @@
+print("Inventory Data Pipeline Executed Successfully")

@@ -1,0 +1,1 @@
+print("Low Stock Monitoring Completed")
